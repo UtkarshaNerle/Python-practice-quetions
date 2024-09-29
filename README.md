@@ -1,1 +1,1 @@
-# This is python Daily practice Questions.
+# This is my python Daily practice Questions.
