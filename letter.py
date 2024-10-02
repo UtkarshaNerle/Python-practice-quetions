@@ -13,4 +13,4 @@ while i < len(b):
     i+=1
 print('A (alphabetes) =',A)
 print('B (numbers)=',B)
-print('E (special charchar)=',E)
+print('E (special charchar)=',E)         
