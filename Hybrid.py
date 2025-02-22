@@ -14,7 +14,7 @@ class father(grand_father):
         
 class son(father):
     def bike(self):
-        print("i have a bike")
+        print(" Ihave a bike")
         super().__init__()
         
 son1=son()

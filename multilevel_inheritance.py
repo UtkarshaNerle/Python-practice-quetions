@@ -4,13 +4,13 @@ class Grand_father: # multilevel inheritance
         
 class father(Grand_father):
     def house(self):
-        print("i have a house.")
+        print("I have a house.")
     def car(self):
         print("I have a car")
         
 class son(father):
     def bike(self):
-        print("i have a bike")
+        print("I have a bike")
         
 son1=son()
 son1.bike()
