@@ -4,11 +4,11 @@ class father:
         
 class son(father):
     def name(self):
-        print("name : Rohan")
+        print("Name : Rohan")
 
 class daughter(father):
     def name(self):
-        print("name : struti")
+        print("Name : struti")
         
 son1 = son()
 daughter1=daughter()
