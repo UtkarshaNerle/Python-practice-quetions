@@ -36,7 +36,7 @@ class joint_account(Bank_account):
             super().__init__(pin,balance)
         def display_parent_balance(self):
             
-            print("parent balance is: ",self.balance)
+            print("Parent balance is: ",self.balance)
             
 
 # account=Bank_account(1234,1000)
